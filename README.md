@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I am software developer with over 4 years of experience in building scalable web services and modern client applications with a passion for software engineering. Enjoying collaborating with colleagues, working in product-focused cross-functional teams, learning, gaming and talking about technology and the future.
+I am software developer with over 4 years of experience in building scalable web services and modern client applications with a passion for software engineering. I enjoy collaborating with colleagues, working in product-focused cross-functional teams, learning, gaming and talking about technology and the future.
 
 
 [![Years Badge](https://badges.pufler.dev/years/balintsoos)](https://badges.pufler.dev)
